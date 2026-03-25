@@ -1,4 +1,4 @@
-![Imagem](assets/04-soma.png)
+![Imagem](src/assets/04-soma.png)
 
 # React + Vite
 
